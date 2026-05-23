@@ -2,7 +2,7 @@
 
 
 
-## 🙋‍♂️ About me  ![profile view count](https://komarev.com/ghpvc/?username=lakshyagoyal365)
+## 🙋‍♂️ About me <!-- ![profile view count](https://komarev.com/ghpvc/?username=lakshyagoyal365) -->
 
 **`Solution Developer`**
 
