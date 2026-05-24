@@ -1,14 +1,12 @@
 # Hi! I am Lakshya Goyal
 
-
-
-## 🙋‍♂️ About me <!-- ![profile view count](https://komarev.com/ghpvc/?username=lakshyagoyal365) -->
+## 🙋‍♂️ About me <!-- ![profile view count](https://komarev.com/ghpvc/?username=lakshyagoyal365) --> 
 
 **`Solution Developer`**
 
 I’m a software developer passionate about building full-stack websites. Currently sharpening my skills in modern frameworks while delivering clean, maintainable code.
 
-👩🏻‍🎓 Studying [Electronics And Communication Engineering]() at the Birla Institute Of Techology, Mesra
+👩🏻‍🎓 Studying [Electronics And Communication Engineering](https://bitmesra.ac.in/edudepartment/1/72) at the Birla Institute Of Techology, Mesra
 
 💭 Currently learning Java
 
@@ -21,10 +19,20 @@ I’m a software developer passionate about building full-stack websites. Curren
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
+## 🚀 Projects
+- [Portfolio Website](https://github.com/lakshyagoyal365/portfolio) – A responsive personal portfolio built with HTML, CSS, and JavaScript.
+
 ## 📫 How to reach me:
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshya_g365@outlook.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918619372532?text=Hello)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshyagoyal365)
 [![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lakshyagoyal365)
 [![twitter profile link](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lakshyagoyal365)
 [![discord server link](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=lakshya_g365@outlook.com)
 
+---
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=lakshyagoyal365&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=lakshyagoyal365&theme=radical)
+![Lakshya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lakshyagoyal365&theme=radical)
