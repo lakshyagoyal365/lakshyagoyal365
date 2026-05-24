@@ -33,6 +33,7 @@ I’m a software developer passionate about building full-stack websites. Curren
 
 ---
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=lakshyagoyal365&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=lakshyagoyal365&theme=radical)
-![Lakshya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lakshyagoyal365&theme=radical)
+| ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=lakshyagoyal365&show_icons=true&theme=radical)| ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=lakshyagoyal365&theme=radical) |
+|---|---|
+
+![Lakshya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lakshyagoyal365&theme=radical) 
